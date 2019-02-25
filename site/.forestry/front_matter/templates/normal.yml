@@ -1,0 +1,12 @@
+---
+label: Normal
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: texto
+  label: Texto
+  default: Título
+- type: textarea
+  name: conteudo
+  label: Conteúdo
