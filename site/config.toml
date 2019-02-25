@@ -1,9 +1,5 @@
 baseurl = "/"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 languageCode = "en-us"
 languageLang = "en"
 title = "Teste do Hugo"
-
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
